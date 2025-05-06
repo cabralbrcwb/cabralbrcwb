@@ -1,7 +1,6 @@
 # Hi there, I'm @cabralbrcwb! 👋
 
-I'm a **Java Web Developer** based in Curitiba, Brazil. I currently work on an application called **Camaleo**, which is built on top of **iDempiere** by **NTT Data**, contributing to the performance evaluation system for **Telebras**.
-
+I'm a **Java Web Developer** based in Curitiba, Brazil.
 ---
 
 ## 👀 Interests
@@ -14,7 +13,7 @@ I'm a **Java Web Developer** based in Curitiba, Brazil. I currently work on an a
 ## 🌱 Currently Learning
 - **Advanced Java**: Deepening my expertise in backend development.
 - **Spring Ecosystem**: Expanding knowledge in Spring Boot, Security, Data, etc.
-- **DevOps Practices**: Exploring CI/CD pipelines, containerization, and cloud deployment.
+- **DevOps Practices**: Exploring CI/CD pipelines, and cloud deployment.
 
 ---
 
