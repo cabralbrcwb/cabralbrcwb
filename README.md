@@ -12,12 +12,6 @@ I'm a **Java Web Developer** based in Curitiba, Brazil.
 ## 🌱 Currently Learning
 - **Advanced Java**: Deepening my expertise in backend development.
 - **Spring Ecosystem**: Expanding knowledge in Spring Boot, Security, Data, etc.
-- **DevOps Practices**: Exploring CI/CD pipelines, and cloud deployment.
-
----
-
-## 💞️ Looking to Collaborate On
-- **Open Source Projects**: Particularly those related to Java, Spring Boot, or web technologies.
 
 ---
 
@@ -27,10 +21,4 @@ I'm a **Java Web Developer** based in Curitiba, Brazil.
 
 ---
 
-## ⚡ Fun Fact
-I’m passionate about finding the **perfect balance** between **tech and fitness**, whether it’s coding a new feature or sprinting to the finish line!
-
----
-
-> *Thanks for stopping by! Let’s connect and build something awesome together.*
 
