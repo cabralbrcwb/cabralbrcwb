@@ -6,7 +6,6 @@ I'm a **Java Web Developer** based in Curitiba, Brazil.
 ## 👀 Interests
 - **Web Development**: Always excited about exploring new frameworks and libraries.
 - **Physical Activities**: I enjoy biking and running.
-- **Personal Growth**: Continuously improving my **English** skills and aiming to launch my own startup in the future.
 
 ---
 
@@ -19,7 +18,6 @@ I'm a **Java Web Developer** based in Curitiba, Brazil.
 
 ## 💞️ Looking to Collaborate On
 - **Open Source Projects**: Particularly those related to Java, Spring Boot, or web technologies.
-- **Innovative Startups**: Always interested in teaming up for new ventures.
 
 ---
 
